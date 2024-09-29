@@ -40,4 +40,4 @@ Tener en cuenta que al recargar la página, los datos de los usuarios se pierden
    ```bash
    npm run dev
    ```
-   Esto iniciará la aplicación en modo de desarrollo. Abre [http://localhost:3000](http://localhost:3000) en tu navegador para ver la aplicación.
+   Esto iniciará la aplicación en modo de desarrollo. Abre [http://localhost:5173](http://localhost:5173) en tu navegador para ver la aplicación.
