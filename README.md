@@ -26,7 +26,7 @@ Tener en cuenta que al recargar la página, los datos de los usuarios se pierden
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/nombre-del-proyecto.git
+   git clone https://github.com/Juan-Camilo-Sanchez-Echeverri/client-ibero.git
    cd client
    ```
 
